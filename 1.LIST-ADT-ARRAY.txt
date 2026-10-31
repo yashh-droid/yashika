@@ -53,6 +53,6 @@ int main()
 	insert(4,2);
 	traverse();
 	n = getnofelements();
-	printf("nof elments:%d",n);
+	printf("no of elments:%d",n);
 	return 0;
 }
