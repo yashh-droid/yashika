@@ -121,7 +121,7 @@ void delete(int data) {
         prev->next = temp->next;
     }
 
-    printf("Element deleted: %d\n", temp->data);
+    printf("Element deleted: %d\n",  temp->data);
     free(temp);
 }
 
